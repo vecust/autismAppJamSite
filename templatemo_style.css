@@ -53,6 +53,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .image_fr { float: right; margin: 3px 0 0 20px }
 
 #tallPic { height: 396px; }
+#judyPic { width: 200px; }
 
 .tmo_list { margin: 20px 0 20px 10px; padding: 0; list-style: none }
 .tmo_list li { color:#bfb839; margin: 0; padding: 0 0 5px 15px; background: url(images/templatemo_list.jpg) no-repeat scroll 0 4px  }
@@ -75,7 +76,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 #site_title { float: left; }
 #site_title h1 { margin: 0; padding: 0 }
-#site_title h1 a { display: block; width: 760px; height: 52px; background:url(images/UCI-DBSICS-banner-blue-760x52.jpg)  no-repeat top left; color: #000; font-size: 40px; font-weight: 400; outline: none; text-indent: -10000px; }
+#site_title h1 a { display: block; width: 320px; height: 170px; background:url(images/autism-app-jam-small.png)  no-repeat top left; color: #000; font-size: 40px; font-weight: 400; outline: none; text-indent: -10000px; }
 
 #templatemo_menu { float: right; margin-top: 20px; }
 #templatemo_menu ul { padding: 0; margin: 0; list-style: none; }
@@ -111,6 +112,8 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .content_home { background: url(images/templatemo_content_home.png) no-repeat }
 .content_aboutus { background: url(images/templatemo_content_about.png) no-repeat }
 .content_sponsors { background: url(images/templatemo_content_sponsors.png) no-repeat }
+.content_judges { background: url(images/templatemo_content_judges.png) no-repeat }
+.content_prizes { background: url(images/templatemo_content_prizes.png) no-repeat }
 .content_ideas { background: url(images/templatemo_content_ideas.png) no-repeat }
 .content_services { background: url(images/templatemo_content_services.png) no-repeat }
 .content_portfolio { background: url(images/templatemo_content_portfolio.png) no-repeat }

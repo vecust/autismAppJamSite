@@ -135,6 +135,8 @@ a.gototop:hover { text-decoration: underline }
 #gallery ul img { z-index: 1000; position: absolute; top: 0; left: 0; width: 300px; height: 150px; }
 #gallery ul span {  position: absolute; border: 0; left: 0; width: 300px; height: 168px; background: url(images/templatemo_image_bg.jpg) no-repeat }
 
+.contributor span {  position: absolute; border: 0; left: 0; width: 175px; height: 168px; background: url(images/templatemo_image_bg_contributors.jpg) no-repeat }
+
 #contact_form { padding: 0; width: 300px }
 #contact_form form { margin: 0px; padding: 0px; }
 

@@ -48,9 +48,12 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .image_wrapper { position: relative; display: inline-block; width: 300px; height: 218px; margin: 3px 0 10px 0; }
 .image_wrapper img { z-index: 1000; position: absolute; top: 0; left: 0; width: 300px; height: 200px; }
 .image_wrapper span {  position: absolute; border: 0; left: 0; top: 47px; width: 300px; height: 168px; background: url(images/templatemo_image_bg.jpg) no-repeat }
+.image_fc img { z-index: 1000; top: 0; left: 0; width: 300px; height: 200px; }
+.image_fc span { position: absolute; border: 0; left: 260px; top: 135px; width: 300px; height: 168px; background: url(images/templatemo_image_bg.jpg) no-repeat }
 
 .image_fl { float: left; margin: 3px 20px 0 0 }
 .image_fr { float: right; margin: 3px 0 0 20px }
+.image_fc { float: none; margin: 3px 0 0 20px }
 
 #tallPic { height: 396px; }
 #judyPic { width: 200px; }
@@ -59,6 +62,8 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .tmo_list li { color:#bfb839; margin: 0; padding: 0 0 5px 15px; background: url(images/templatemo_list.jpg) no-repeat scroll 0 4px  }
 .tmo_list li a { color: #bfb839; font-weight: normal; font-size: 12px; text-decoration: none }
 .tmo_list li a:hover { color: #bfb839; text-decoration: underline }
+
+.tmo_table td { color:#bfb839; margin: 0; padding: 0 0 5px 15px; }
 
 
 #templatemo_wrapper {

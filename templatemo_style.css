@@ -124,6 +124,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .content_portfolio { background: url(images/templatemo_content_portfolio.png) no-repeat }
 .content_contactus { background: url(images/templatemo_content_contactus.png) no-repeat }
 .content_register { background: url(images/templatemo_content_register.png) no-repeat }
+.content_workshops { background: url(images/templatemo_content_workshops.png) no-repeat }
 
 a.gototop { display: block; position: absolute; width: 140px; height: 25px; padding: 65px 10px 0 0; text-align: right; font-size: 14px; bottom: 0; right: 0; color: #000; background: url(images/templatemo_gototop.jpg) no-repeat; text-decoration: none; }
 a.gototop:hover { text-decoration: underline }

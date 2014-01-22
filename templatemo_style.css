@@ -65,12 +65,23 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 .tmo_table td { color:#bfb839; margin: 0; padding: 0 0 5px 15px; }
 
+.twitter_wrapper { position: fixed; width: 150px; margin: 300px 0 100px 130px; }
+
+.fb-like-box {width: 300px; margin-top: 10px; background-color:#FFFFFF}
 
 #templatemo_wrapper {
-	width: 806px;
+	width: 1000px;
 	margin: 0 auto;
 	padding-left: 6px;
+	float: none;
 /*	background: url(images/templatemo_body.jpg) center top no-repeat; */
+}
+
+#templatemo_twitter {
+	width: 180px;
+	float: right;
+	margin-top: 10px;
+
 }
 
 #templatmeo_header {
@@ -103,9 +114,9 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 }
 
 #templatemo_main {
-	clear: both;
+	float: left;
 	width: 800px;
-	margin: 0 0 0 6px;
+	margin: 0 10px 0 6px;
 }
 
 .content_top { clear: both; height: 10px }
